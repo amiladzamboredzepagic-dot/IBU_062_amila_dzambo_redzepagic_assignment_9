@@ -36,7 +36,8 @@ Conflict Resolution
 
 Branch Integration (Merging Non-Main Branches)
 Create and Switch to the Integration Branch
-![Uploading Screenshot 2025-11-26 at 21.44.06.png…]()
+<img width="808" height="110" alt="Screenshot 2025-11-26 at 21 45 56" src="https://github.com/user-attachments/assets/20ee9fef-7387-4326-baed-a850cde6e9a7" />
+
 
 Create and Commit Feature C
 <img width="743" height="130" alt="Screenshot 2025-11-26 at 21 39 51" src="https://github.com/user-attachments/assets/e59d898b-77eb-4985-bd42-aee0872ac4ed" />
@@ -53,6 +54,7 @@ Merge Feature D into Development
 Push the Integrated Branch
 Review Branch History
 <img width="939" height="334" alt="Screenshot 2025-11-26 at 21 41 00" src="https://github.com/user-attachments/assets/bf769e41-c447-4679-a71c-e7495575390f" />
+
 
 
 
