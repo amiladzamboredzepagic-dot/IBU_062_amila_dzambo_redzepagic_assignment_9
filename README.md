@@ -3,57 +3,56 @@ Configurate Git Identity
 
 Local Repository Initialization and Initial Commit
 Create and Initialize Repository
-<img width="745" height="33" alt="Screenshot 2025-11-26 at 21 35 02" src="https://github.com/user-attachments/assets/69ac9f5e-7251-40bd-b9e8-ab5ba3553aac" />
+<img width="745" height="33" alt="Screenshot 2025-11-26 at 21 35 02" src="https://github.com/user-attachments/assets/b4cdba32-eda6-40ce-a8a3-2fe97dc5fccc" />
 
 Create a File and Stage Changes
 Commit Changes
 Review Commit History
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/217c0f97-2cbd-4371-8f7b-7adec52d524e" />
+<img width="784" height="169" alt="Screenshot 2025-11-26 at 21 36 06" src="https://github.com/user-attachments/assets/ebf6559a-d843-4607-b4ae-4b2c3af99410" />
 
 
 Remote Setup and Synchronization
 Connect Local To Remote
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/04cc3deb-5840-4a7e-8432-f37663244297" />
+<img width="1207" height="60" alt="Screenshot 2025-11-26 at 21 36 52" src="https://github.com/user-attachments/assets/26865f0c-324e-4895-8769-6a32eb608530" />
 
 Push Initial Commit:
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/2e875edb-d042-415b-b7c8-46126f91583d" />
+<img width="763" height="126" alt="Screenshot 2025-11-26 at 21 37 23" src="https://github.com/user-attachments/assets/ec20c2d5-2b55-4c1b-8abd-e3f436b91c1c" />
 
 
 Branching, Changes, and Rebase
 Create and Switch to a Feature Branch
 Make Changes in Feature Branch
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/edf24953-3bc4-413d-a2c7-51118c37ff5e" />
+<img width="906" height="115" alt="Screenshot 2025-11-26 at 21 37 45" src="https://github.com/user-attachments/assets/d44deb3d-2a04-4b4b-8bb9-eac132f8c1c3" />
 
 Create Divergence in Main Branch
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/fab1c61c-8cd2-48c4-b6a9-c1c4fb7f65f5" />
+<img width="874" height="129" alt="Screenshot 2025-11-26 at 21 38 22" src="https://github.com/user-attachments/assets/0e67cb95-9f5c-481a-834e-9f74b20d04d1" />
 
 
 Perform Rebase and Resolve Conflict
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/b57ae5e8-8b7d-4bb7-9938-503453e1bff4" />
-
 Conflict Resolution
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/9a0aa6ae-d379-4b34-831f-687a597be3fd" />
+<img width="627" height="241" alt="Screenshot 2025-11-26 at 21 38 49" src="https://github.com/user-attachments/assets/15bc0b9f-3ef8-45e3-93f6-43ac8db4a1f0" />
+<img width="883" height="239" alt="Screenshot 2025-11-26 at 21 39 06" src="https://github.com/user-attachments/assets/d39873c6-ae6b-4c2b-8f5b-91b6deffdaf2" />
 
 
 Branch Integration (Merging Non-Main Branches)
 Create and Switch to the Integration Branch
-<img width="627" height="34" alt="Screenshot 2025-11-26 at 21 39 30" src="https://github.com/user-attachments/assets/972ed68e-a051-4b88-b836-776f0bc3782a" />
+![Uploading Screenshot 2025-11-26 at 21.44.06.png…]()
 
 Create and Commit Feature C
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/115a49b5-0a8e-4e18-92ee-1b6f5c772217" />
+<img width="743" height="130" alt="Screenshot 2025-11-26 at 21 39 51" src="https://github.com/user-attachments/assets/e59d898b-77eb-4985-bd42-aee0872ac4ed" />
 
 Create and Commit Feature D
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/24e54c70-fab4-4c87-a833-3b31ae12bde7" />
+<img width="743" height="151" alt="Screenshot 2025-11-26 at 21 40 21" src="https://github.com/user-attachments/assets/903c3c82-c65a-4f40-b970-d2024d815124" />
 
 
 Merge Feature C Into Development
 Merge Feature D into Development
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/aa1ebbc0-f514-4f56-909a-899a0dcaf715" />
+<img width="740" height="154" alt="Screenshot 2025-11-26 at 21 40 36" src="https://github.com/user-attachments/assets/97bb3bfb-a673-4ba2-8d8a-826cdaac9943" />
 
 
 Push the Integrated Branch
 Review Branch History
-<img width="619" height="122" alt="image" src="https://github.com/user-attachments/assets/450dd16f-7391-4545-b6e7-1fc8184a25ad" />
+<img width="939" height="334" alt="Screenshot 2025-11-26 at 21 41 00" src="https://github.com/user-attachments/assets/bf769e41-c447-4679-a71c-e7495575390f" />
 
 
 
