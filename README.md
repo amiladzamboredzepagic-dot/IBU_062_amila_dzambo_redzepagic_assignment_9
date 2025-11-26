@@ -15,7 +15,7 @@ Remote Setup and Synchronization
 Connect Local To Remote
 <img width="1207" height="60" alt="Screenshot 2025-11-26 at 21 36 52" src="https://github.com/user-attachments/assets/26865f0c-324e-4895-8769-6a32eb608530" />
 
-Push Initial Commit:
+Push Initial Commit
 <img width="763" height="126" alt="Screenshot 2025-11-26 at 21 37 23" src="https://github.com/user-attachments/assets/ec20c2d5-2b55-4c1b-8abd-e3f436b91c1c" />
 
 
@@ -54,6 +54,7 @@ Merge Feature D into Development
 Push the Integrated Branch
 Review Branch History
 <img width="939" height="334" alt="Screenshot 2025-11-26 at 21 41 00" src="https://github.com/user-attachments/assets/bf769e41-c447-4679-a71c-e7495575390f" />
+
 
 
 
