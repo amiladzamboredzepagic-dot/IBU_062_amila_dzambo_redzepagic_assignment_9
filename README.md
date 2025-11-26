@@ -8,7 +8,7 @@ Create and Initialize Repository
 Create a File and Stage Changes
 Commit Changes
 Review Commit History
-<img width="784" height="169" alt="Screenshot 2025-11-26 at 21 36 06" src="https://github.com/user-attachments/assets/ebf6559a-d843-4607-b4ae-4b2c3af99410" />
+<img width="808" height="110" alt="Screenshot 2025-11-26 at 21 45 56" src="https://github.com/user-attachments/assets/0ebbbf34-cb68-4ccf-bfb5-2677edae42e5" />
 
 
 Remote Setup and Synchronization
@@ -53,6 +53,7 @@ Merge Feature D into Development
 Push the Integrated Branch
 Review Branch History
 <img width="939" height="334" alt="Screenshot 2025-11-26 at 21 41 00" src="https://github.com/user-attachments/assets/bf769e41-c447-4679-a71c-e7495575390f" />
+
 
 
 
